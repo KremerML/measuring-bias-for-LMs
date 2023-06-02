@@ -3,7 +3,7 @@
 
 This is the official repository of a study performed at the University of Amsterdam during the course "Natural Language Processing II" in 2023.
 
-[[Project report]](insert_link_when_available)
+[[Project report]](/reports/report.pdf)
 
 ## Abstract
 
